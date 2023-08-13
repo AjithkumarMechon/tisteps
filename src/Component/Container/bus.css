@@ -1,0 +1,13 @@
+.grid {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(3, 1fr);
+}
+.border_content {
+  border: 5px solid rgb(238, 228, 138);
+}
+.seat-map {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(4, 1fr);
+}

@@ -1,0 +1,5 @@
+export const ActionTypes = {
+  SET_BUSES: "SET_BUSES",
+  SELECTED_BUS: "SELECTED_BUS",
+  REMOVE_SELECTED_BUS: "REMOVE_SELECTED_BUS",
+};

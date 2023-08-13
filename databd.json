@@ -1,0 +1,58 @@
+{
+  "buses": [
+    {
+      "id": "1",
+      "bus_name": "Chennai volvo1",
+      "bus_ticket_fare": "250",
+      "image": "../public/images/bus1.jpg"
+    },
+    {
+      "id": "2",
+      "bus_name": "Coimbatore volvo2",
+      "bus_ticket_fare": "350",
+      "image": "../public/images/bus2.jpg"
+    },
+    {
+      "id": "3",
+      "bus_name": "Tiruvallur volvo3",
+      "bus_ticket_fare": "300",
+      "image": "../public/images/bus3.jpg"
+    },
+    {
+      "id": "4",
+      "bus_name": "Kanchipuram volvo4",
+      "bus_ticket_fare": "250",
+      "image": "../public/images/bus4.jpg"
+    },
+    {
+      "id": "5",
+      "bus_name": "Sivagangi volvo5",
+      "bus_ticket_fare": "350",
+      "image": "../public/images/bus5.jpg"
+    },
+    {
+      "id": "6",
+      "bus_name": "Vellore volvo6",
+      "bus_ticket_fare": "300",
+      "image": "../public/images/bus6.jpg"
+    },
+    {
+      "id": "7",
+      "bus_name": "Nagapatinam volvo7",
+      "bus_ticket_fare": "250",
+      "image": "../public/images/bus7.jpg"
+    },
+    {
+      "id": "8",
+      "bus_name": "Kanyakumari  volvo8",
+      "bus_ticket_fare": "350",
+      "image": "../public/images/bus8.jpg"
+    },
+    {
+      "id": "9",
+      "bus_name": "Pazhani volvo9",
+      "bus_ticket_fare": "300",
+      "image": "../public/images/bus9.jpg"
+    }
+  ]
+}
